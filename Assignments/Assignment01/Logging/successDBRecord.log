@@ -1,0 +1,6 @@
+[2022-09-07T22:21:12.273447-04:00] my_logger.INFO: uploaded to database successfully [] []
+[2022-09-07T22:23:51.124692-04:00] my_logger.INFO: uploaded to database successfully [] []
+[2022-09-07T22:23:51.125330-04:00] my_logger.ERROR: uploaded to database successfully [] []
+[2022-09-07T22:27:31.482064-04:00] my_logger.INFO: uploaded to database successfully [] []
+[2022-09-07T22:28:02.567090-04:00] my_logger.INFO: uploaded to database successfully [] []
+[2022-09-07T22:28:26.945826-04:00] my_logger.INFO: uploaded to database successfully [] []
